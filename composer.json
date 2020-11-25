@@ -2,7 +2,7 @@
     "name": "mtest/composer-pack",
     "description": "TEST COMPOSER PROJECT",
     "type": "project",
-    "license": "stable",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Alexey Manko",
