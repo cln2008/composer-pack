@@ -2,7 +2,7 @@
     "name": "mtest/composer-pack",
     "description": "TEST COMPOSER PROJECT",
     "type": "project",
-    "license": "proprietary",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Alexey Manko",
