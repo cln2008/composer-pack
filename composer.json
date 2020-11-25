@@ -1,0 +1,14 @@
+{
+    "name": "mtest/composer-pack",
+    "description": "TEST COMPOSER PROJECT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexey Manko",
+            "email": "alexey.manko@tpg.ua"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.*"
+    }
+}
