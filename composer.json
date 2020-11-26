@@ -3,7 +3,7 @@
     "description": "TEST COMPOSER PROJECT",
     "type": "project",
     "license": "BSD-3-Clause",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Alexey Manko",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "mtest/composer-pack": "@dev"
+        "mtest/composer-pack": "dev-main"
     },
     "autoload": {
         "psr-4": {
